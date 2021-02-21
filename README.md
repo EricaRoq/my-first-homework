@@ -10,7 +10,7 @@ Web accessibility is an increasingly important consideration for businesses. It 
 This codebase follows accessibility standards so that our site is optimized for search engines.
 
 
-![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
+![alt text](/homework-1/assets/horiseon.png)
 
 
 

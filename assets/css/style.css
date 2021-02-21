@@ -11,23 +11,23 @@ body {
 }
 
 /* HEADERS */
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 60px;
 }
 
-.header h1 .seo {
-    color: #212221;
+header h1 .seo {
+    color: #979b97;
 }
 
-.header div {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -36,13 +36,13 @@ body {
 }
 
 /* STYLES FOR HEADER LIST */
-.header div ul {
+header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+header nav ul li {
     display: inline-block;
-    margin-left: 45px;
+    margin-left: 55px;
 }
 
 a {
@@ -54,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/* BACKGROUND */
 .hero {
     height: 800px;
     width: 100%;
@@ -72,7 +73,6 @@ p {
     float: right;
     margin-left: 25px;
 }
-
 
 .content {
     width: 75%;
