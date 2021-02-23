@@ -10,7 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* HEADERS */
+/* HEADER */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -45,6 +45,7 @@ header nav ul li {
     margin-left: 55px;
 }
 
+/*STYLES FOR TEXT */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -64,6 +65,7 @@ p {
     background-position: center;
 }
 
+/* STYLES FOR FLOATS */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,7 +76,8 @@ p {
     margin-left: 25px;
 }
 
-.content {
+/* STYLES FOR MAIN */
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -140,26 +143,8 @@ p {
     max-width: 150px;
 }
 
-/* CONTENT STYLES */
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
+/* STYLES FOR SERVICES */
+.services {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;

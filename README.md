@@ -10,7 +10,4 @@ Web accessibility is an increasingly important consideration for businesses. It 
 This codebase follows accessibility standards so that our site is optimized for search engines.
 
 
-![alt text](/homework-1/assets/horiseon.png)
-
-
-
+![alt text](./"assets\horiseon.png")
