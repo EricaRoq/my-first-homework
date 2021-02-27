@@ -1,16 +1,17 @@
-/* STYLE FOR PAGE */
+/* GENERAL STYLES */
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/* BODY */
 body {
     background-color: #d9dcd6;
 }
 
 /* HEADER */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,11 +21,11 @@ header {
 
 header h1 {
     display: inline-block;
-    font-size: 60px;
+    font-size: 48px;
 }
 
 header h1 .seo {
-    color: #979b97;
+    color: #d9dcd6;
 }
 
 header nav {
@@ -35,17 +36,17 @@ header nav {
     font-size: 20px;
 }
 
-/* STYLES FOR HEADER LIST */
 header nav ul {
     list-style-type: none;
 }
 
 header nav ul li {
     display: inline-block;
-    margin-left: 55px;
+    margin-left: 25px;
 }
 
-/*STYLES FOR TEXT */
+/* TEXT STYLES */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -55,7 +56,8 @@ p {
     font-size: 16px;
 }
 
-/* BACKGROUND */
+/* HERO DIV WITH BACKGROUND IMAGE */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -65,7 +67,8 @@ p {
     background-position: center;
 }
 
-/* STYLES FOR FLOATS */
+/* FLOATS */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -76,14 +79,16 @@ p {
     margin-left: 25px;
 }
 
-/* STYLES FOR MAIN */
+/* MAIN */
+
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* BENEFITS */
+/* BENEFITS ASIDE */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -95,56 +100,25 @@ main {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
+/* SERVICES SECTIONS */
 
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* STYLES FOR SERVICES */
-.services {
+.service {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -153,41 +127,24 @@ main {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.service img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
+.service h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/* FOOTER */
 
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* FOOTERS */
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
