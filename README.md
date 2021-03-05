@@ -1,6 +1,4 @@
-# 01 HTML CSS Git: Code Refactor
-
-Code Refactor
+# Code Refactor
 
 This project was designed to make this website follow the rules of web accessibility.  It is formulated to help the disabled with viewing the website more clearly.
 
@@ -10,4 +8,4 @@ Web accessibility is an increasingly important consideration for businesses. It 
 This codebase follows accessibility standards so that our site is optimized for search engines.
 
 
-![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
+![](./assets/images/horiseon.png)
